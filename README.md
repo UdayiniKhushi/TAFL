@@ -1,6 +1,6 @@
 # Universal Multi-Tape Turing Machine Simulator
 
-A high-fidelity, interactive web-based simulator for Multi-Tape Turing Machines. This tool is designed to visualize the computational process of Turing Machines and demonstrate the efficiency gains (reducing complexity from $O(n^2)$ to $O(n)$) when moving from single-tape to multi-tape architectures.
+A high-fidelity, interactive web-based simulator for Multi-Tape Turing Machines. This tool is designed to visualize the computational process of Turing Machines and demonstrate the efficiency gains (reducing complexity from $O(n^2)$ to O(n)) when moving from single-tape to multi-tape architectures.
 
 ## 🚀 Live Demo
 **URL:** [https://tafl-omega.vercel.app](https://tafl-omega.vercel.app)
