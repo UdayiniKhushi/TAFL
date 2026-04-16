@@ -1,6 +1,6 @@
 # Universal Multi-Tape Turing Machine Simulator
 
-A high-fidelity, interactive web-based simulator for Multi-Tape Turing Machines. This tool is designed to visualize the computational process of Turing Machines and demonstrate the efficiency gains (reducing complexity from $O(n^2)$ to O(n) when moving from single-tape to multi-tape architectures.
+A high-fidelity, interactive web-based simulator for Multi-Tape Turing Machines. This tool is designed to visualize the computational process of Turing Machines and demonstrate the efficiency gains (reducing complexity from $O(n^2)$ to $O(n)$ when moving from single-tape to multi-tape architectures.
 
 ## 🚀 Live Demo
 **URL:** [https://tafl-omega.vercel.app](https://tafl-omega.vercel.app)
@@ -15,7 +15,7 @@ A high-fidelity, interactive web-based simulator for Multi-Tape Turing Machines.
 
 ### 2. Adaptive Algorithm Presets
 The tool includes built-in presets that automatically adapt their logic based on the number of tapes selected:
-- **Binary Copier:** Demonstrates the speed difference between a 1-tape shuttling strategy ($O(n^2)$) and a 2-tape parallel copy ($O(n)$).
+- **Binary Copier:** Demonstrates the speed difference between a 1-tape shuttling strategy ( $O(n^2)$ ) and a 2-tape parallel copy ( $O(n)$ ).
 - **Unary Addition:** Supports 1, 2, or 3 tapes. The 3-tape mode demonstrates simultaneous operand processing.
 - **$a^n b^n$ Checker:** A classic single-tape implementation for context-free language recognition.
 
@@ -47,15 +47,13 @@ Allows users to define custom machines by pasting transition rules in a CSV-styl
 
 ## 📥 Installation & Local Setup
 
-To run this project locally, follow these steps:
-
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/UdayiniKhushi/TAFL.git
    ```
 2. **Navigate to the project folder:**
    ```bash
-   cd turing-machine
+   cd TAFL/turing-machine
    ```
 3. **Install dependencies:**
    ```bash
